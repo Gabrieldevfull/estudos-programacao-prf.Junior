@@ -1,2 +1,2 @@
-# estudos-programacao-prf.Junior
+# estudos-programacao-prf-Junior
 aulasPrincipais
